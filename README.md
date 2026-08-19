@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/BREAD-06/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/BREAD-06/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/BREAD-06/leetcode/tree/master/0724-find-pivot-index) |
+| [3033-modify-the-matrix](https://github.com/BREAD-06/leetcode/tree/master/3033-modify-the-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/BREAD-06/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Matrix
+|  |
+| ------- |
+| [3033-modify-the-matrix](https://github.com/BREAD-06/leetcode/tree/master/3033-modify-the-matrix) |
 <!---LeetCode Topics End-->
